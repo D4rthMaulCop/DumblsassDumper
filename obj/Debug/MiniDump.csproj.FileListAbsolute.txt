@@ -1,0 +1,3 @@
+C:\Users\Vader\Desktop\MiniDump\obj\Debug\MiniDump.csproj.AssemblyReference.cache
+C:\Users\Vader\Desktop\MiniDump\obj\Debug\MiniDump.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vader\Desktop\MiniDump\obj\Debug\MiniDump.csproj.CoreCompileInputs.cache

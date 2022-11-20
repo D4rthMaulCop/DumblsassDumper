@@ -1,0 +1,16 @@
+C:\Users\Vader\Desktop\MiniDump\obj\x64\Release\MiniDump.csproj.AssemblyReference.cache
+C:\Users\Vader\Desktop\MiniDump\obj\x64\Release\MiniDump.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vader\Desktop\MiniDump\obj\x64\Release\MiniDump.csproj.CoreCompileInputs.cache
+C:\Users\Vader\Desktop\MiniDump\bin\x64\Release\MiniDump.exe.config
+C:\Users\Vader\Desktop\MiniDump\bin\x64\Release\MiniDump.exe
+C:\Users\Vader\Desktop\MiniDump\bin\x64\Release\MiniDump.pdb
+C:\Users\Vader\Desktop\MiniDump\obj\x64\Release\MiniDump.exe
+C:\Users\Vader\Desktop\MiniDump\obj\x64\Release\MiniDump.pdb
+C:\SecToolDev\MiniDump\bin\x64\Release\MiniDump.exe.config
+C:\SecToolDev\MiniDump\bin\x64\Release\MiniDump.exe
+C:\SecToolDev\MiniDump\bin\x64\Release\MiniDump.pdb
+C:\SecToolDev\MiniDump\obj\x64\Release\MiniDump.csproj.AssemblyReference.cache
+C:\SecToolDev\MiniDump\obj\x64\Release\MiniDump.csproj.SuggestedBindingRedirects.cache
+C:\SecToolDev\MiniDump\obj\x64\Release\MiniDump.csproj.CoreCompileInputs.cache
+C:\SecToolDev\MiniDump\obj\x64\Release\MiniDump.exe
+C:\SecToolDev\MiniDump\obj\x64\Release\MiniDump.pdb
